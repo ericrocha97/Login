@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "891881551235",
+    "firebase_url": "https://login-6007d.firebaseio.com",
+    "project_id": "login-6007d",
+    "storage_bucket": "login-6007d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891881551235:android:3f862bd4d4c957880432b6",
+        "android_client_info": {
+          "package_name": "cf.ericrocha.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891881551235-t474o589kvvgv235l5bvn03094k2iofl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cf.ericrocha.login",
+            "certificate_hash": "e9d6967e05d068ac117ac8d739c5b0e0148ab203"
+          }
+        },
+        {
+          "client_id": "891881551235-2e541h1rf0f2u7p85h661lkiq28iebin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACICMb6adjcU5KEmnQdRkDEMm6m8Sqz6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891881551235-2e541h1rf0f2u7p85h661lkiq28iebin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
